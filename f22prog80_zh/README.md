@@ -51,4 +51,18 @@ fingerpoint:`QIN/full_AGN_1244RO_MT6769S_MX6432/AGN_1244RO_MT6769S_MX6432:12/SP1
 
 ## 1.1.1
 
+name: [1.1.1/1682562722package.zip](1682562722package.zip)
+size:`3224877`
+deltaId:`11184`
+fingerpoint:`QIN/full_AGN_1244RO_MT6769S_MX6432/AGN_1244RO_MT6769S_MX6432:12/SP1A.210812.016/1672822044:user/release-keys`
+desc:
+
+```html
+1. 手机语音输入功能优化<br />
+2. 亲守护功能优化<br />
+3. 以及其他多项系统优化<br />
+```
+
+## 1.1.2
+
 latest version, there has no update
